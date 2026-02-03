@@ -23,11 +23,11 @@ more efficient rendering with less ressources.
 
 ### Machine Learning
 - **HyGI-ml**  
-  Data preprocessing, CNN training, and trained models for GI optimization.
+  Data processing, CNN training and optimisation, and trained models for GI optimization.
 
 ### Data
 - **HyGI-datasets**  
-  Curated datasets for training, evaluation, and benchmarking.
+  Datasets for training, evaluation, and benchmarking.
 
 ### Development
 - **HyGI-devlogs**  
