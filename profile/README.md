@@ -11,11 +11,11 @@ more efficient rendering with less ressources.
 
 ### Core
 - **HyGI-engine**  
-  Rendering engine implementing hybrid global illumination within the core pipeline.
+  Rendering engine implementing hybrid global illumination within the core pipeline. (falcor based)
 
 ### Research
 - **HyGI-research**  
-  Experiments, paper reviews, prototypes, and exploratory projects focused on GI and ML.
+  Experiments, Result & Statistics, Benchmarking, Paper reviews & sources links / reference.
 
 ### Documentation
 - **HyGI-docs**  
@@ -31,4 +31,4 @@ more efficient rendering with less ressources.
 
 ### Development
 - **HyGI-devlogs**  
-  Development logs, design decisions, progress tracking, and encountered issues.
+  Development logs, design decisions, MCOT, progress tracking, and encountered issues.
